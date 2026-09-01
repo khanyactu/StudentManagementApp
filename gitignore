@@ -1,0 +1,15 @@
+# Connection strings - never commit credentials
+appsettings.json
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local database files
+*.mdf
+*.ldf
